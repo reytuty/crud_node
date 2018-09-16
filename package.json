@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/reytuty/crud_node#readme",
   "dependencies": {
+    "dotenv": "^6.0.0",
     "mongoose": "^5.2.15",
     "mongoose-auto-increment": "^5.0.1"
   }
